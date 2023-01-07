@@ -1,6 +1,6 @@
 [
-	"gauge",
-	"run",
-	"--dir=D:\\gauge-maven-selenium",
-	"D:\\gauge-maven-selenium\\specs"
+  "gauge",
+  "run",
+  "--dir=D:\\gauge-maven-selenium",
+  "D:\\gauge-maven-selenium\\specs"
 ]
